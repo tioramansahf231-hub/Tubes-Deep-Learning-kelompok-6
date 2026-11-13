@@ -1,7 +1,7 @@
 # Dokumentasi Kontribusi Kelompok
 
 ## Pembagian Peran
-- TIO RAMANSAH F : Tugas 1 (Klasifikasi Multimodal)
+- TIO RAMANSAH F : Tugas 1 (Klasifikasi Multimodal: eksplorasi data, arsitektur Gated Attention Fusion, penanganan domain shift, missing modality, label noise, hingga evaluasi 3 seed dan ekspor prediksi_klasifikasi.csv).
 - AGATHA KINANTHI P. T. A. : Tugas 2 (Regresi RUL Time-Series)
 - AURA IZZATUL AFIFA : Tugas 3 (Klasterisasi Multimodal) & Laporan
 
